@@ -1,0 +1,25 @@
+_repo: War-b-A-poem-in-blank-verse_71866
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Spateman, John
+    gutenberg_agent_id: '56433'
+    url: http://www.gutenberg.org/2009/agents/56433
+description: ''
+gutenberg_issued: '2023-10-13'
+identifiers:
+  gutenberg: '71866'
+language: en
+pgterms:marc904: https://www.google.ca/books/edition/War_A_Poem/rO2nbv_gudYC
+pgterms:marc905: 20231007124605spateman
+pgterms:marc906: '1745'
+pgterms:marc907: GB
+production_note: Al Haines
+publication_note: '  $aLondon :$bJ. Roberts, $c1745.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: 'War : $b A poem in blank verse'
+url: http://www.gutenberg.org/ebooks/71866
