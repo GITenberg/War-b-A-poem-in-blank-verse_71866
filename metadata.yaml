@@ -1,11 +1,16 @@
 _repo: War-b-A-poem-in-blank-verse_71866
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 71866-h/images/img-cover.jpg
 creator:
   author:
     agent_name: Spateman, John
     gutenberg_agent_id: '56433'
     url: http://www.gutenberg.org/2009/agents/56433
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/71866#War-b-A-poem-in-blank-verse
 gutenberg_issued: '2023-10-13'
 identifiers:
   gutenberg: '71866'
